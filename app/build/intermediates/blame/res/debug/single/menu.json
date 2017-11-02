@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\menu\\squart_lunge_menu.xml",
+        "source": "C:\\Missfit0906\\app\\src\\main\\res\\menu\\squart_lunge_menu.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Missfit0906\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\menu\\squart_lunge_menu.xml",
+        "source": "C:\\Missfit\\app\\src\\main\\res\\menu\\squart_lunge_menu.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Missfit\\app\\src\\main\\res\\menu\\main_menu.xml"
+    }
+]
